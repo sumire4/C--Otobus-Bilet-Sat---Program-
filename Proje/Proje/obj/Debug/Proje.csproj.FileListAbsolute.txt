@@ -1,0 +1,13 @@
+C:\Users\Mete\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Mete\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Mete\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.personelIslem.resources
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.KontrolPaneli.resources
+C:\Users\Mete\source\repos\Proje\Proje\obj\Debug\Proje.MusteriIslemleri.resources

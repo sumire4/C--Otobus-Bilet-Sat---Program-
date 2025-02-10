@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mete\\source\\repos\\Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|C:\\Users\\Mete\\source\\repos\\Proje\\proje\\musteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\musteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|C:\\Users\\Mete\\source\\repos\\Proje\\proje\\musteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\musteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|C:\\Users\\Mete\\source\\repos\\Proje\\proje\\personelislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\personelislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|C:\\Users\\Mete\\source\\repos\\Proje\\proje\\personelislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\personelislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|C:\\Users\\Mete\\source\\repos\\Proje\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|c:\\users\\mete\\source\\repos\\proje\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|C:\\Users\\Mete\\source\\repos\\Proje\\proje\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|C:\\Users\\Mete\\source\\repos\\Proje\\proje\\personelislem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\personelislem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|C:\\Users\\Mete\\source\\repos\\Proje\\proje\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06DB1A90-B213-43A1-B163-2B9CC0932718}|Proje\\Proje.csproj|solutionrelative:proje\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "personelIslem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\personelIslem.Designer.cs",
+              "RelativeDocumentMoniker": "Proje\\personelIslem.Designer.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\personelIslem.Designer.cs",
+              "RelativeToolTip": "Proje\\personelIslem.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:32:42.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KontrolPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\KontrolPaneli.cs",
+              "RelativeDocumentMoniker": "Proje\\KontrolPaneli.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\KontrolPaneli.cs",
+              "RelativeToolTip": "Proje\\KontrolPaneli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:49:48.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KontrolPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\KontrolPaneli.cs",
+              "RelativeDocumentMoniker": "Proje\\KontrolPaneli.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\KontrolPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje\\KontrolPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:35:44.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusteriIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\MusteriIslemleri.cs",
+              "RelativeDocumentMoniker": "Proje\\MusteriIslemleri.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\MusteriIslemleri.cs",
+              "RelativeToolTip": "Proje\\MusteriIslemleri.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:51:48.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusteriIslemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\MusteriIslemleri.cs",
+              "RelativeDocumentMoniker": "Proje\\MusteriIslemleri.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\MusteriIslemleri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje\\MusteriIslemleri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:37:03.214Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "personelIslem.cs",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\personelIslem.cs",
+              "RelativeDocumentMoniker": "Proje\\personelIslem.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\personelIslem.cs",
+              "RelativeToolTip": "Proje\\personelIslem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:26:29.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "personelIslem.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\personelIslem.cs",
+              "RelativeDocumentMoniker": "Proje\\personelIslem.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\personelIslem.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje\\personelIslem.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:16:00.632Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\Form1.cs",
+              "RelativeToolTip": "Proje\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:42:55.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mete\\source\\repos\\Proje\\Proje\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:46:22.808Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
